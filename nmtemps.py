@@ -18,8 +18,8 @@ class SVGCreator:
     gridWidth = 1200
     right = gridWidth + left
     timeLineOffset = 40
-    fileName = "/var/www/lindstrom/public/nmtemps.svg"
-    configFileName = "/var/www/lindstrom/secure/weatherconfig.txt"
+    fileName = "/home/elindstr/nmtemps.svg"
+    configFileName = "weatherconfig.txt"
     
     
     tempData = []
@@ -39,7 +39,7 @@ class SVGCreator:
                 svgFile.write(svgString)
                 svgFile.close()
             except:
-                print "Unable to write to file."
+                print("Unable to write to file.")
 
 
     def loadConfigFile(self):
