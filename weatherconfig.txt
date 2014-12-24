@@ -1,5 +1,6 @@
+database, 0000FF, Home
 http://api.wunderground.com/weatherstation/WXDailyHistory.asp?ID=KMINORTH13&format=XML, FF00FF, North Muskegon
-http://api.wunderground.com/weatherstation/WXDailyHistory.asp?ID=KMINORTH9&format=XML, FF0000, City of North Muskegon
+#http://api.wunderground.com/weatherstation/WXDailyHistory.asp?ID=KMINORTH9&format=XML, FF0000, City of North Muskegon
 http://api.wunderground.com/weatherstation/WXDailyHistory.asp?ID=KMIGRAND2&format=XML, 254117, Grand Rapids
-http://api.wunderground.com/weatherstation/WXDailyHistory.asp?ID=MMKGM4&format=XML, 00FF00, Muskegon Channel
-http://api.wunderground.com/weatherstation/WXDailyHistory.asp?ID=MKTNM4&format=XML, FF2400, Sidnaw
+http://api.wunderground.com/weatherstation/WXDailyHistory.asp?ID=MMKGM4&format=XML, 006600, Muskegon Channel
+http://api.wunderground.com/weatherstation/WXDailyHistory.asp?ID=MKTNM4&format=XML, FF0000, Sidnaw
